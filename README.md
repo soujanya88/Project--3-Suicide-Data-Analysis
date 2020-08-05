@@ -77,4 +77,4 @@ Landing Page – index.html - custom CSS files,
 Data Visualization (Libraries used) – java script, D3.js, Plotly, D3,geomap/JQuery with Ajax (new library)
 
 Link to access the dashboard, which has the "Charts and Maps" page with the visualizations.If you click on any of the links from the slider and you can explore the charts. 
-https://suicideratesanalysis.herokuapp.com# Project--3-Suicide-Data-Analysis
+https://globalsuiciderates.herokuapp.com/ Project--3-Suicide-Data-Analysis
