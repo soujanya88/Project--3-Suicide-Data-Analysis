@@ -1,4 +1,4 @@
-# Project 2 - Suicide Data Analysis
+# Project 3 - Suicide Data Analysis
 
 ##Project Requirements:
 1. Your visualization must include a Python Flask–powered RESTful API, HTML/CSS,
